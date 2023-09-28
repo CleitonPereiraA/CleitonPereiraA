@@ -1,4 +1,5 @@
-# Olá! Eu Sou Cleiton Becker Pereira
+### Olá! Eu Sou **Cleiton Becker Pereira**
+---
 <div class="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraA&show_icons=true&theme=transparent">
 </div>
