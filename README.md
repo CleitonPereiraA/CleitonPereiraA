@@ -1,10 +1,9 @@
 ## Olá! Eu Sou Cleiton Becker Pereira
 ---
 <div class="inline-block">
-  <img height="285" src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraA&show_icons=true&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonPereiraA&exclude_repo=github-readme-stats,CleitonPereira.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=CleitonPereiraA&show_icons=true&theme=transparent">
 </div>
----
+----------------------------------------------------------------------------
 <div class="block">
   <img height="50" width="40" alt="cleiton-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="50" width="40" alt="cleiton-symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
@@ -18,4 +17,4 @@
   <img height="50" width="40" alt="cleiton-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="50" width="40" alt="cleiton-mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div> 
----
+----------------------------------------------------------------------------
