@@ -5,7 +5,7 @@
 ##
 
 <p align="center">
-  <a href="https://github.com/cleiton-bp"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer&font=Fira%0Code&center=true&width=440&height=45&color=darkblue=true&size=22"></a>
+  <a href="https://github.com/cleiton-bp"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack&font=Fira%0Code&center=true&width=440&height=45&color=darkblue=true&size=22"></a>
 </p>
 
 ##
