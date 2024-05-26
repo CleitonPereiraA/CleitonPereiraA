@@ -1,7 +1,7 @@
 <br></br>
 
 <p align="center">
-  <a href="https://main--cleiton-bp.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack Developer&font=Fira%0Code&center=true&width=440&height=45&size=35"></a>
+  <a href="https://github.com/cleiton-bp"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack&font=Fira%0Code&center=true&width=440&height=45&color=darkblue=true&size=22"></a>
 </p>
 
 ##
