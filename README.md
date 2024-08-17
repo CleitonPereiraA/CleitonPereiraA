@@ -51,5 +51,5 @@
 </div>
 
 ##
-![snake gif](https://github.com/cleiton-bp/cleiton-bp/blob/output/github-contribution-grid-snake.svg)
+![Snake_animation](https://github.com/cleiton-bp/cleiton-bp/blob/output/github-contribution-grid-snake.svg)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=cleiton-bp&repo=cleiton-bp&theme=react)](https://github.com/cleiton-bp/cleiton-bp)
