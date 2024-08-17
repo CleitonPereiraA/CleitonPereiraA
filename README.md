@@ -51,3 +51,4 @@
 </div>
 
 ##
+![snake gif](https://github.com/cleiton-bp/cleiton-bp/blob/output/github-contribution-grid-snake.svg)
