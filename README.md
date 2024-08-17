@@ -50,4 +50,19 @@
    <img height="500em" <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" /></a>
 </div>
 
-![snake animation](https://github.com/cleiton-bp/cleiton-bp/blob/output/github-contribution-grid-snake2.svg)
+##
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
